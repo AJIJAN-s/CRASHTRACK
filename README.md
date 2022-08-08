@@ -1,4 +1,4 @@
 # CRASHTRACK
 Motorcycle Crash Detection System
 
-crashtrack.ga
+temporary domain: https://crashtrack.ga/
